@@ -12,17 +12,10 @@
     tools:context="com.android.testprojectlab2.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="117dp"></LinearLayout>
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="LAB2"
         android:id="@+id/textView"
@@ -31,4 +24,7 @@
         android:layout_marginTop="70dp"
         android:textColor="#2A52BE"
         android:textSize="40dp" />
+=======
+        android:text="Hello World!" />
+>>>>>>> parent of 768243c... 2nd commit
 </RelativeLayout>
