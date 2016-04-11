@@ -28,5 +28,7 @@
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="70dp" />
+        android:layout_marginTop="70dp"
+        android:textColor="#2A52BE"
+        android:textSize="40dp" />
 </RelativeLayout>
