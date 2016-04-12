@@ -29,6 +29,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
-        android:textColor="#2A52BE"
+        android:textColor="#FFFF00"
         android:textSize="40dp" />
 </RelativeLayout>
